@@ -129,10 +129,10 @@ else {
 
 ## OUTPUT:
 
-![error](<Screenshot 2024-04-26 085330.png>) 
+![error]<Screenshot 2024-04-26 085330.png>
 
 
-![error](<Screenshot 2024-04-26 085339.png>)
+![error]<Screenshot 2024-04-26 085339.png>
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
